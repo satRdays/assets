@@ -1,2 +1,2 @@
 # assets
-:picture:s and other assets
+:art: and other assets
